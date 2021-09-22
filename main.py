@@ -322,8 +322,8 @@ def error_recognition(unidentified_images,output_dir='.'):
     plt.suptitle("We couldn't classify these images\n"
                  'They were moved to "Unrecognized" folder')
     plt.show(block=False)
-    #plt.pause(4)
-    #plt.close()
+    plt.pause(4)
+    plt.close()
     # --- end block
     # then call create folder to make a folder called unrecognized
     for image in unidentified_images:
