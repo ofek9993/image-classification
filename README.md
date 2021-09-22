@@ -1,5 +1,5 @@
 # ImageClassifier
-This project was created jointly by me and a fellow friend in my Electrical Engineering studies Erez Verdnikov (https://github.com/erezberezz)
+This project was created jointly by me and a fellow friend in my Electrical Engineering degree Erez Verdnikov (https://github.com/erezberezz)
 This classifer uses a neural network trained on the COCO dataset in order to sort photos into common photography generes.
 
 # Libraeris used: 
