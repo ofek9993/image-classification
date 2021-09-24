@@ -22,7 +22,7 @@ special_sets_dict= {('dog',): 'Pet Photography', ('cat',): 'Pet Photography',("p
                     ('tie',):'Event Photography',('cake','wine-glass'):'Event Photography',('cake','person'):'Event Photography'}
 # ----- end of identifiers list
 
-# ----- identifiers to later help us classify photos of our spacial case sorter did not succeed ------
+# ----- identifiers to later help us classify photos if our spacial case sorter did not succeed ------
 
 event_identifiers = ('person', 'tie', 'wine-glass', 'cup')
 
