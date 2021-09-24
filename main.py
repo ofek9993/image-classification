@@ -109,7 +109,7 @@ def get_prediction(img, threshold=0.8):
         return pred_box, pred_class, pred_score
     except IndexError:
         return 1
-        # If we cannot find a prediction then we return a recursion call with a lower threshold
+        # If we cannot find a prediction then we return 1
 
 
 # object detection uses an array of images
