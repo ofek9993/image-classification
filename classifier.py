@@ -37,7 +37,7 @@ house_identifiers = ('toilet', 'bed', 'sink', 'refrigerator', 'toothbrush', 'toa
                      'scissors', 'hair-drier', 'hair-brush', 'remote')
 
 sea_identifiers = ("person",'surfboard', 'boat')
-# user pet!!
+
 
 
 street_photography_identifiers = ('person', 'traffic-light', 'stop-sign', 'bicycle', 'motorcycle'
